@@ -7,77 +7,87 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="20"
-   height="20"
-   id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   id="svg3723"
+   width="26.666668"
+   height="26.666668"
+   viewBox="0 0 26.666668 26.666668"
    sodipodi:docname="close_focused_normal.svg"
-   inkscape:export-filename="/home/lara/.themes/Bloody/assets/close.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
-  <defs
-     id="defs4" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="43.173219"
-     inkscape:cx="4.7945922"
-     inkscape:cy="7.3095001"
-     inkscape:document-units="px"
-     inkscape:current-layer="g4092"
-     showgrid="true"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:window-width="1366"
-     inkscape:window-height="732"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:document-rotation="0" />
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
-     id="metadata7">
+     id="metadata3729">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-671.14288,-644.57648)">
-    <g
-       transform="matrix(0.1265625,0,0,-0.1265625,672.07092,663.09636)"
-       inkscape:label="ink_ext_XXXXXX"
-       id="g4090">
-      <g
-         transform="scale(0.1)"
-         id="g4092">
-        <path
-           id="path4094"
-           style="fill:#ff007a;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           d="m 718.73264,133.09656 c 305.45606,0 553.08156,247.62586 553.08156,553.0858 0,305.46123 -247.6255,553.08674 -553.08156,553.08674 -305.46512,0 -553.0913,-247.62551 -553.0913,-553.08674 0,-305.45994 247.62618,-553.0858 553.0913,-553.0858"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path4096"
-           style="fill:#ff007a;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           d="m 718.73309,172.59948 c 283.63701,0 513.57491,229.94294 513.57491,513.58518 0,283.64353 -229.9379,513.58154 -513.57491,513.58154 -283.64749,0 -513.58558,-229.93801 -513.58558,-513.58154 0,-283.64224 229.93809,-513.58518 513.58558,-513.58518"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
-  </g>
+  <defs
+     id="defs3727" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1057"
+     id="namedview3725"
+     showgrid="false"
+     inkscape:zoom="8.8499996"
+     inkscape:cx="13.333334"
+     inkscape:cy="13.333334"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3723" />
+  <image
+     width="26.666668"
+     height="26.666668"
+     preserveAspectRatio="none"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAAE
+82lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0w
+TXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRh
+LyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEz
+LTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3Jn
+LzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0i
+IiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRw
+Oi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMu
+YWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNv
+bS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9z
+VHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0Mg
+MjAxOSAoV2luZG93cykiIHhtcDpDcmVhdGVEYXRlPSIyMDIwLTAzLTA4VDAyOjIyOjIxLTA2OjAw
+IiB4bXA6TW9kaWZ5RGF0ZT0iMjAyMC0wMy0wOFQwMjoyNTo1OC0wNjowMCIgeG1wOk1ldGFkYXRh
+RGF0ZT0iMjAyMC0wMy0wOFQwMjoyNTo1OC0wNjowMCIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBo
+b3Rvc2hvcDpDb2xvck1vZGU9IjMiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NjRlMjg1ZGUt
+OTM1Ni03YjRhLWE3YjUtMzhjY2I2YmNiZWY3IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjY0
+ZTI4NWRlLTkzNTYtN2I0YS1hN2I1LTM4Y2NiNmJjYmVmNyIgeG1wTU06T3JpZ2luYWxEb2N1bWVu
+dElEPSJ4bXAuZGlkOjY0ZTI4NWRlLTkzNTYtN2I0YS1hN2I1LTM4Y2NiNmJjYmVmNyI+IDx4bXBN
+TTpIaXN0b3J5PiA8cmRmOlNlcT4gPHJkZjpsaSBzdEV2dDphY3Rpb249ImNyZWF0ZWQiIHN0RXZ0
+Omluc3RhbmNlSUQ9InhtcC5paWQ6NjRlMjg1ZGUtOTM1Ni03YjRhLWE3YjUtMzhjY2I2YmNiZWY3
+IiBzdEV2dDp3aGVuPSIyMDIwLTAzLTA4VDAyOjIyOjIxLTA2OjAwIiBzdEV2dDpzb2Z0d2FyZUFn
+ZW50PSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoV2luZG93cykiLz4gPC9yZGY6U2VxPiA8L3ht
+cE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8
+P3hwYWNrZXQgZW5kPSJyIj8+QCC04QAAAWdJREFUOI2t1D1Lw1AUBuD33KSmH1qhinR2Le6Cgjpr
+F6kiCiJIOnQW/AeOiiAVWkEcdGlxUtyKoz9A8DdYtSJNv0KT42IkaRKbSt7tXi5POPfkXGJmhBkR
+qgZAti+IyHWA89dx1JsZAEBEeqGKqnlBVqVkL9kOcq68ja/OKdr6NMyfM5IAFLmBydgB3eYvA4O8
+Vqzho7XyZ22pxBPunxcIRdMOuu6Qs+d3QzEAaLTmkZ2rDW47QN68WMS7tjoUs1JvLvF6KesLoqWf
+BcYAQBDQ0Y/9Qa2bGQkEAK036w8a7PiNAqVvCkbh1xlsyr/Gxuq0GxyTuiNriqzbl05wXHkYGUwo
+j/6gIquQhYmgEcSIRXZ9QaqoDUwl9iDcM+2BAelkgarqq8PwHL1ceQNvzRvohnfXJWEgndynqnpl
+bQ1/HJZPokhGj9Drb0E3UmAmjMmfiEcqmJk4pNJO2/4NTzCMhP7Ahg5+AyvvgYR4Oex/AAAAAElF
+TkSuQmCC
+"
+     id="image3731"
+     x="0"
+     y="0" />
 </svg>
