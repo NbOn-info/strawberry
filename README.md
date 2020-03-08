@@ -1,7 +1,7 @@
 
 ![](Art/logo.png)
 
-![](Art/Dracula.png)
+![](Art/Strawberry.png)
 
 
 #### Installation
