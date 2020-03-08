@@ -5,7 +5,7 @@
 stage {
   font-family: Roboto, Ubuntu, Cantarell, Sans-Serif;
   font-size: 10pt;
-  color: #C3C7D1; }
+  color: #e3e7f1; }
 
 /* WIDGETS */
 /* Buttons */
@@ -20,7 +20,7 @@ stage {
   border-width: 0;
   padding: 4px 32px; }
   .button:focus {
-    color: #ff79c6;
+    color: #cb79ff;
     text-shadow: 0 1px black;
     icon-shadow: 0 1px black;
     box-shadow: none;
@@ -33,13 +33,13 @@ stage {
     text-shadow: none;
     icon-shadow: none; }
   .button:active {
-    color: #ff79c6;
+    color: #c085fd;
     background-color: rgba(40, 42, 54, 0.95);
     border: 1px solid #21232d;
     text-shadow: none;
     icon-shadow: none; }
   .button:hover {
-    color: #ff79c6;
+    color: #cf7ffd;
     background-color: #21232d;
     border: 1px solid #21232d;
     text-shadow: 0 1px black;
@@ -48,32 +48,32 @@ stage {
 .modal-dialog-linked-button {
   padding: 10px;
   border: 1px solid #21232d;
-  color: #C3C7D1;
+  color: #d4daea;
   background: #1d1f27;
   text-shadow: none;
   icon-shadow: none;
   box-shadow: none; }
   .modal-dialog-linked-button:insensitive {
-    color: #767984;
+    color: #a5a9ba;
     background-color: rgba(57, 59, 71, 0.66);
     box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1), inset 0 2px 3px rgba(0, 0, 0, 0.22);
     border: none;
     text-shadow: none;
     icon-shadow: none; }
   .modal-dialog-linked-button:active {
-    color: #ff79c6;
+    color: #be79ff;
     background-color: rgba(40, 42, 54, 0.95);
     border: 1px solid #21232d;
     text-shadow: none;
     icon-shadow: none; }
   .modal-dialog-linked-button:focus {
-    color: #ff79c6;
+    color: #c57ffb;
     text-shadow: 0 1px black;
     icon-shadow: 0 1px black;
     box-shadow: none;
     border: 1px solid #21232d; }
     .modal-dialog-linked-button:focus:hover {
-      color: #ff79c6;
+      color: #cc82ff;
       text-shadow: 0 1px black;
       icon-shadow: 0 1px black;
       box-shadow: none;
@@ -99,8 +99,8 @@ StEntry {
   border-radius: 2px;
   padding: 4px;
   border-width: 0;
-  color: #C3C7D1;
-  selection-background-color: #ff79c6;
+  color: #dee1ea;
+  selection-background-color: #d77dfa;
   selected-color: #fefefe; }
   StEntry:focus {
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1), 0 2px 3px rgba(0, 0, 0, 0.22); }
@@ -109,7 +109,7 @@ StEntry {
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1), 0 2px 3px rgba(0, 0, 0, 0.22); }
   StEntry StIcon.capslock-warning {
     icon-size: 16px;
-    warning-color: #ff9f39;
+    warning-color: #e7ee99;
     padding: 0 4px; }
 
 /* Scrollbars */
@@ -132,9 +132,9 @@ StScrollBar {
     background-color: #474955;
     margin: 3px; }
     StScrollBar StButton#vhandle:hover, StScrollBar StButton#hhandle:hover {
-      background-color: #a4a8b2; }
+      background-color: #c3c6cd; }
     StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
-      background-color: #ff79c6; }
+      background-color: #bb89ff; }
 
 /* Slider */
 .slider {
@@ -145,14 +145,14 @@ StScrollBar {
   -slider-background-color: #373a4b;
   -slider-border-color: black;
   -slider-active-background-color: #bd93f9;
-  -slider-active-border-color: #50fa7a;
+  -slider-active-border-color: #f1fa8c;
   -slider-border-width: 0;
   -slider-handle-radius: 6px;
   -barlevel-height: 0.1em;
   -barlevel-background-color: #373a4b;
   -barlevel-border-color: black;
   -barlevel-active-background-color: #bd93f9;
-  -barlevel-active-border-color: #50fa7a;
+  -barlevel-active-border-color: #50fae7;
   -barlevel-border-width: 0;
   -barlevel-handle-radius: 6px;
   -barlevel-overdrive-color: #bd93f9;
@@ -198,9 +198,9 @@ StScrollBar {
 
 /* links */
 .shell-link {
-  color: #A0C1B9; }
+  color: #3eddff; }
   .shell-link:hover {
-    color: #bfd5d0; }
+    color: #00fff6; }
 
 /* Modal Dialogs */
 .headline {
@@ -224,7 +224,7 @@ StScrollBar {
     width: 20em;
     margin-bottom: 6px; }
   .modal-dialog .run-dialog-error-box {
-    color: #ff3c3c;
+    color: #ff49c1;
     padding-top: 16px;
     spacing: 6px; }
   .modal-dialog .run-dialog-button-box {
