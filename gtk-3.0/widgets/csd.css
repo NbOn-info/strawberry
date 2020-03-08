@@ -40,7 +40,6 @@
     color: @selected_bg_color;
     background-color: transparent;
 }
-
 .maximized .titlebar {
     border-radius: 0;
     border: none;
