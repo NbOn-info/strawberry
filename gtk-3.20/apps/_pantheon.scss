@@ -123,6 +123,7 @@
 .panel {
   background-color: transparent;
   transition: all 100ms ease-in-out;
+  color: #fff;
 
   &.maximized {
     background-color: #000;
@@ -289,15 +290,15 @@ LibraryWindow {
 .sidebar.source-list.view {
     &.level-bar {
       &, &:selected, &:selected:focus {
-        background: linear-gradient(transparentize(black, 0.86), transparentize(black, 0.86));
+        background: linear-gradient(transparentize(#fff, 0.86), transparentize(#fff, 0.86)) ;
         border: 1px solid transparentize(black, 0.86);
-        box-shadow: 0 1px 0 transparentize(#fff, 0.75);
+        box-shadow: 0 1px 0 transparentize(#000, 0.75);
         border-radius: 2px;
       }
     }
-    &.fill-block {
+    &.fill-block { 
       border: none;
-      &, &:hover, &:selected, &:selected:focus{
+      &, &:hover, &:selected, &:selected:focus {
         background: linear-gradient($selected_bg_color, $selected_bg_color);
       }
     }

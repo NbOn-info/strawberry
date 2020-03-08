@@ -2,7 +2,7 @@
  * Switch *
  **********/
  $_switch_bg: if($variant == 'light', transparentize(black, 0.9), lighten($base_color, 10%));
- $_switch_slider_bg: if($variant == 'light', $base_color, #fff);
+ $_switch_slider_bg:$base_color;
 
  switch {
   font-size: 1px;
@@ -63,7 +63,7 @@
     &:backdrop {
       padding:2px;
       box-shadow:none;
-      background-color:$base_color;
+      background-color: $base_color;
     }
   }
 

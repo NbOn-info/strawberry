@@ -550,12 +550,12 @@ button.raven-trigger {
           &:hover {
             border-radius: 0;
             background-color: transparent;
-           color: $selected_bg_color;
+            color: $selected_bg_color;
           }
 
           &:active,
           &:checked {
-            color:  darken($selected_bg_color, 5%);
+            color: $selected_bg_color;
             border-radius: 0;
             background-color: transparent;
           }
@@ -611,20 +611,20 @@ button.raven-trigger {
         color: $selected_fg_color;
       }
       &:first-child {
-        background: transparentize($cyan,0.1);
+        background: transparentize($cyan,0.3);
 
         &:hover {
-          background: transparentize($cyan,0);
+          background: transparentize($cyan,0.15);
         }
         &:active {
           background: $cyan;
         }
       }
       &:last-child {
-        background: transparentize($red,0.1);
+        background: transparentize($red,0.3);
 
         &:hover {
-          background: transparentize($red,0);
+          background: transparentize($red,0.15);
         }
         &:active {
           background: $red;
@@ -706,7 +706,7 @@ calendar.raven-calendar {
     border-radius: 1px;
     button {
       background-color: $cyan;
-      color: $selected_fg_color;
+      color: darken($selected_fg_color, 75%);
       border: none;
       margin: 0 3px;
       &:hover {

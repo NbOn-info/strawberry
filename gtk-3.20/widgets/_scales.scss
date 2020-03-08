@@ -2,20 +2,20 @@
  * GtkScale *
  ************/
  $scale_slider_bg: if($variant == 'light', $base_color, lighten($base_color, 10%));
- $scale_trough_bg: if($variant == 'light', transparentize(black,0.86), lighten(transparentize(black,0.86), 47%));
+ $scale_trough_bg: if($variant == 'light', transparentize(black,0.86), lighten(transparentize($bg_color,0.86), 47%));
 %scale_trough {
   background-color: $scale_trough_bg;
   border: none;
   border-radius: 3px;
   margin: 0;
 
-  &:disabled { background-color: transparentize(black,0.94); }
+  &:disabled { background-color: transparentize(black,0.86); }
 
   &:backdrop {
-    background-color: transparentize(black,0.94);
+    background-color: transparentize(black,0.86);
     transition: $backdrop_transition;
 
-    &:disabled { background-color: transparentize(black,0.94); }
+    &:disabled { background-color: transparentize(black,0.86); }
   }
 }
 
