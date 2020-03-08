@@ -16,11 +16,12 @@ gsettings set org.gnome.desktop.wm.preferences theme "Ant-Dracula"
 ```
 or Change via distribution specific tool.
 
-### Note:
-* This theme is based on the [Ant-Nebula](https://github.com/EliverLara/Ant-Nebula).
-
-## Issues will be fixed asap. Pull Request Welcomed
+### Issues will be fixed asap. Pull Request Welcomed
 https://github.com/callmezatiel/Strawberry/issues
 
-## Buy me a coffee
+### Buy me a coffee
 <a href="https://www.paypal.me/zatiel"><img src="https://img.shields.io/badge/don-paypal-blue"></a> <a href="https://www.patreon.com/zatiel"><img src="https://img.shields.io/badge/don-patreon-ff69b4"> 
+
+
+### Note:
+* This theme is based on the [Ant-Nebula](https://github.com/EliverLara/Ant-Nebula).
